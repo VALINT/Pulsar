@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "1801_One_Wire_7Seg", "1801_One_Wire_7Seg\1801_One_Wire_7Seg.cppproj", "{44D76E39-9BA8-41B4-B8C5-9573D9DCF099}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D76E39-9BA8-41B4-B8C5-9573D9DCF099}.Debug|AVR.ActiveCfg = Debug|AVR
+		{44D76E39-9BA8-41B4-B8C5-9573D9DCF099}.Debug|AVR.Build.0 = Debug|AVR
+		{44D76E39-9BA8-41B4-B8C5-9573D9DCF099}.Release|AVR.ActiveCfg = Release|AVR
+		{44D76E39-9BA8-41B4-B8C5-9573D9DCF099}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
